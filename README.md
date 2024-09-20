@@ -2,6 +2,10 @@
 
 ## 👋 &nbsp;Hi everyone! I'm Kejdi
 
+<p style="border-radius:5px; padding: 10px; font-weight: bold; font-family: monospace">
+  I'm a Junior Full-Stack Web Developer
+</p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 <p style="border-radius:5px; padding: 10px; font-weight: bold; font-family: monospace">
   During my studies in accounting, I had the opportunity to approach the world of programming for the first time, which deeply fascinated me. Later, I decided to pursue in-depth studies in programming and IT. I am attracted to this field beacause of its vastness and constant evolution, offering endless opportunities to create innovative solutions and tackle everyday challenges.
