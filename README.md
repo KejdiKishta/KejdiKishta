@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" style="width: 100%;">
+<!-- <img src="banner.png" alt="Banner" style="width: 100%;">
 
 ## 👋 &nbsp;Hi everyone! I'm Kejdi
 
@@ -26,4 +26,6 @@
 <p>
 <a href="https://www.linkedin.com/in/kejdi-kishta-6b768a218/"><img src="https://img.shields.io/badge/-Kejdi Kishta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kishtakejdi@gmail.com"><img src="https://img.shields.io/badge/-kishtakejdi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+</p> -->
+
+prova prova
